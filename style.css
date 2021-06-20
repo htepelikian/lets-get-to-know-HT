@@ -21,6 +21,10 @@ body {
       margin-left: 200px;
   }
 
+  nav:hover {
+      color: violet;
+  }
+
   .know {
     width: 400px;
     border: 15px solid green;
