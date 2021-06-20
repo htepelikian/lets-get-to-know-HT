@@ -56,7 +56,15 @@ body {
 	padding: 0;
 	margin: 0;
 	background-color: lightblue;
+
 }
+
+.boxes {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
 
 footer ul li img{
 	width: 20px;
