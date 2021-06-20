@@ -28,10 +28,36 @@ body {
       padding-bottom: 50px;
       padding-top: 20px;
   }
+  nav a{
+    text-decoration: none;
+    padding: 10px 20px;
+    text-transform:uppercase;
+    color: #363958;
+    font-weight: 600;
 
   nav:hover {
       color: violet;
+      border-bottom: 2px solid #363958
   }
+
+section{
+    height: 500px;
+    padding-bottom: 100px
+}
+
+.half-width{
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 40%;
+    float: left
+
+}
+
+.half-width h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 50px;
+}
 
   .know {
     width: 400px;
