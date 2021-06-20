@@ -2,12 +2,28 @@ body {
     background-color: lightblue;
   }
   
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    background-color: gray;
+    color:white;
+  }
+
   h1 {
-    color: navyß;
+    color: white;
     margin-left: 0px;
   }
 
   nav {
-      color: forestgreen;
+      color: white;
       margin-left: 200px;
+  }
+
+  .know {
+    width: 400px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
   }
