@@ -1,5 +1,9 @@
 body {
     background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
   }
   
   header {
@@ -15,10 +19,14 @@ body {
     color: white;
     margin-left: 0px;
   }
-
+  p{
+    text-align: justify;
+}
   nav {
       color: white;
-      margin-left: 200px;
+      text-align: right;
+      padding-bottom: 50px;
+      padding-top: 20px;
   }
 
   nav:hover {
