@@ -57,3 +57,14 @@
         padding :10px;
     }
   
+/*apply style to caption image*/
+.caption{
+    height: 400px;
+    background-image: url("I2fII8e.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    position: relative;
+  }
