@@ -39,6 +39,7 @@ body {
       padding-bottom: 50px;
       padding-top: 20px;
       display: flex;
+      display: block;
       background-color: lightblue;
       margin: 10px;
     }
