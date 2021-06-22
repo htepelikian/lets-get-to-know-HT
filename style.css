@@ -1,5 +1,5 @@
 :root {
-    --primary-color:#1c8591;
+    --primary-color: darkgreen;
   }
   
   * {
@@ -127,7 +127,7 @@ section {
 }
   
 .text {
-    flex: 25;
+    flex: 20;
 }
   
 .text p {
@@ -268,8 +268,8 @@ header nav ul {
 }
   
 header nav ul li a {
-    font-size: 16px;
-    font-weight: bold;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 .caption{
@@ -290,7 +290,7 @@ header nav ul li a {
     width: 85%;
 }
 
-.title {
+.work-title {
     width: 100%;
     text-align: right;
     font-weight: bold;
